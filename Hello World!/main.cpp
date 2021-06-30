@@ -1,14 +1,10 @@
-//
-//  main.cpp
-//  Hello World!
-//
-//  Created by Matt Cahill on 6/29/21.
-//
+// Matthew Cahill
+// CIS 1202 5T1
+// June 29, 2021
 
 #include <iostream>
-
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+using namespace std;
+int main() {
+    cout << "Hello, World!\n";
     return 0;
 }
